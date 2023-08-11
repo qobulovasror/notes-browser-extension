@@ -32,7 +32,11 @@ If you're interested in contributing to the development of this extension or cus
 
 1. **Clone the repository:**
   ```bash
-  git clone qobulovasror/notes-browser-extention
+  gh repo clone qobulovasror/notes-browser-extention
+  ```
+  or
+  ```bash
+  git clone https://github.com/qobulovasror/notes-browser-extention
   ```
 2. **Navigate to the project directory:**
   ```bash
